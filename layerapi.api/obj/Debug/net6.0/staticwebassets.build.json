@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "gKmXWhYRlsUadjJ2+oPOPKyLXX8dG4prAnBj7VdlUt0=",
+  "Source": "layerapi.api",
+  "BasePath": "_content/layerapi.api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

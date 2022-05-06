@@ -1,0 +1,11 @@
+C:\Users\_shavendra_badshasha\Desktop\api\layerapi\layerapi.Data\bin\Debug\net6.0\layerapi.Data.deps.json
+C:\Users\_shavendra_badshasha\Desktop\api\layerapi\layerapi.Data\bin\Debug\net6.0\layerapi.Data.dll
+C:\Users\_shavendra_badshasha\Desktop\api\layerapi\layerapi.Data\bin\Debug\net6.0\ref\layerapi.Data.dll
+C:\Users\_shavendra_badshasha\Desktop\api\layerapi\layerapi.Data\bin\Debug\net6.0\layerapi.Data.pdb
+C:\Users\_shavendra_badshasha\Desktop\api\layerapi\layerapi.Data\obj\Debug\net6.0\layerapi.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\_shavendra_badshasha\Desktop\api\layerapi\layerapi.Data\obj\Debug\net6.0\layerapi.Data.AssemblyInfoInputs.cache
+C:\Users\_shavendra_badshasha\Desktop\api\layerapi\layerapi.Data\obj\Debug\net6.0\layerapi.Data.AssemblyInfo.cs
+C:\Users\_shavendra_badshasha\Desktop\api\layerapi\layerapi.Data\obj\Debug\net6.0\layerapi.Data.csproj.CoreCompileInputs.cache
+C:\Users\_shavendra_badshasha\Desktop\api\layerapi\layerapi.Data\obj\Debug\net6.0\layerapi.Data.dll
+C:\Users\_shavendra_badshasha\Desktop\api\layerapi\layerapi.Data\obj\Debug\net6.0\ref\layerapi.Data.dll
+C:\Users\_shavendra_badshasha\Desktop\api\layerapi\layerapi.Data\obj\Debug\net6.0\layerapi.Data.pdb

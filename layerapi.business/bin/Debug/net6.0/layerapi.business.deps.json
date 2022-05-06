@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "layerapi.business/1.0.0": {
+        "dependencies": {
+          "layerapi.Data": "1.0.0"
+        },
+        "runtime": {
+          "layerapi.business.dll": {}
+        }
+      },
+      "layerapi.Data/1.0.0": {
+        "runtime": {
+          "layerapi.Data.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "layerapi.business/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "layerapi.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\_shavendra_badshasha\Desktop\api\layerapi\layerapi.business\bin\Debug\net6.0\layerapi.business.deps.json
+C:\Users\_shavendra_badshasha\Desktop\api\layerapi\layerapi.business\bin\Debug\net6.0\layerapi.business.dll
+C:\Users\_shavendra_badshasha\Desktop\api\layerapi\layerapi.business\bin\Debug\net6.0\ref\layerapi.business.dll
+C:\Users\_shavendra_badshasha\Desktop\api\layerapi\layerapi.business\bin\Debug\net6.0\layerapi.business.pdb
+C:\Users\_shavendra_badshasha\Desktop\api\layerapi\layerapi.business\bin\Debug\net6.0\layerapi.Data.dll
+C:\Users\_shavendra_badshasha\Desktop\api\layerapi\layerapi.business\bin\Debug\net6.0\layerapi.Data.pdb
+C:\Users\_shavendra_badshasha\Desktop\api\layerapi\layerapi.business\obj\Debug\net6.0\layerapi.business.csproj.AssemblyReference.cache
+C:\Users\_shavendra_badshasha\Desktop\api\layerapi\layerapi.business\obj\Debug\net6.0\layerapi.business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\_shavendra_badshasha\Desktop\api\layerapi\layerapi.business\obj\Debug\net6.0\layerapi.business.AssemblyInfoInputs.cache
+C:\Users\_shavendra_badshasha\Desktop\api\layerapi\layerapi.business\obj\Debug\net6.0\layerapi.business.AssemblyInfo.cs
+C:\Users\_shavendra_badshasha\Desktop\api\layerapi\layerapi.business\obj\Debug\net6.0\layerapi.business.csproj.CoreCompileInputs.cache
+C:\Users\_shavendra_badshasha\Desktop\api\layerapi\layerapi.business\obj\Debug\net6.0\layerapi.business.csproj.CopyComplete
+C:\Users\_shavendra_badshasha\Desktop\api\layerapi\layerapi.business\obj\Debug\net6.0\layerapi.business.dll
+C:\Users\_shavendra_badshasha\Desktop\api\layerapi\layerapi.business\obj\Debug\net6.0\ref\layerapi.business.dll
+C:\Users\_shavendra_badshasha\Desktop\api\layerapi\layerapi.business\obj\Debug\net6.0\layerapi.business.pdb
